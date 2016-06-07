@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Sengatera.Com!"
 date:   2016-06-07 13:11:47 -0400
 categories: jekyll update
 ---
